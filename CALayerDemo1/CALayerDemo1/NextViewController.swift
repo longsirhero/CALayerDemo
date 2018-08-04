@@ -9,7 +9,6 @@
 import UIKit
 
 // MARK: - 绘制方式二
-
 class NextViewController: UIViewController {
 
     let drawLayer = ALayer()

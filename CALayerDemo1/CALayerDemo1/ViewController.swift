@@ -8,8 +8,8 @@
 
 import UIKit
 
+// MARK: - 视频教程： https://www.imooc.com/learn/1015 第2章 CALayer的绘制方式
 // MARK: -绘制方式一
-
 class ViewController: UIViewController {
     
     let drawLayer = CALayer()
